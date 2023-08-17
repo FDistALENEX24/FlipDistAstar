@@ -23,13 +23,13 @@ make
 
 Then (if you have purged the result files) you can either execute the given shell scripts, or call the binary with four or five arguments:
 ```bash
-./A_star_for_flipdistance algorithm type size order 
-./A_star_for_flipdistance algorithm type size order path
+./A_star_for_flipdistance algorithm instances size order 
+./A_star_for_flipdistance algorithm instances size order path
 ```
 with:
 
 	1. algorithm = eppstein heuristic ilp bfs heuristic
-	2. type= sealevel random
+	2. instances= sealevel random
 	3. size=10 15 20 25 30 for random and 25 30 for sealevel
 	4. order= 2,5,25,30 for sealevel and should be 1 for random
 	5. path=path to the folder that contains "random_experiments_paper" and "sealevel_experiments_paper"
