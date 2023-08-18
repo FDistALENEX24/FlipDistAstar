@@ -2,7 +2,18 @@
 The Code for the paper "Engineering an Astar Algorithm for the Flip Distance of Plane Triangulations" for review purposes.
 
 # Dependencies
-The dependecies of the C++ code are Gurobi and CGAL and our python code needs pandas, seaborn, numpy and matplotlib.
+C++:
+
+	- CGAL
+	- Gurobi
+
+Python:
+
+ 	- pandas
+	- seaborn
+ 	- matplotlib
+
+
 
 # Our result files
 The data is given with our complete result files. If you want to repeat our experiments you first need to execute purge.py.
