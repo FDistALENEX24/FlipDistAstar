@@ -34,4 +34,4 @@ with:
 	4. order= 2,5,25,30 for sealevel and always 1 for random
 	5. path=path to the folder that contains "random_experiments_paper" and "sealevel_experiments_paper"
 
-If you do not specifiy the path its assumed that the folder data is on the same level as build
+If you do not specify the path it's assumed that the folder "data" is on the same level as build
