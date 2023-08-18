@@ -40,9 +40,9 @@ Then (if you have purged the result files) you can either execute the given shel
 with:
 
 	1. algorithm = eppstein heuristic ilp bfs heuristic
-	2. instances= sealevel random
-	3. size=10 15 20 25 30 for random and 25 30 for sealevel
-	4. order= 2,5,25,30 for sealevel and always 1 for random
-	5. path=path to the folder that contains "random_experiments_paper" and "sealevel_experiments_paper"
+	2. instances = sealevel random
+	3. size = 10 15 20 25 30 for random and 25 30 for sealevel
+	4. order = 2,5,25,30 for sealevel and always 1 for random
+	5. path = path to the folder that contains "random_experiments_paper" and "sealevel_experiments_paper"
 
 If you do not specify the path it's assumed that the folder "data" is on the same level as build
