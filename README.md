@@ -13,7 +13,7 @@ The data is given with our complete result files. If you want to repeat our expe
 ```bash
 git clone {link here}
 ```
-Then move into the project folder
+Then move into the project folder and:
 ```bash
 mkdir build
 cd build
