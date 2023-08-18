@@ -5,7 +5,7 @@ The Code for the paper "Engineering an Astar Algorithm for the Flip Distance of 
 C++:
 
 	- CGAL
-	- Gurobi
+	- Gurobi 9.5
 
 Python:
 
